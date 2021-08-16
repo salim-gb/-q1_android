@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">Home work first</string>
+    <string name="enter_your_family">Enter your family..</string>
+    <string name="enter_your_name">Enter your name..</string>
+    <string name="enter_your_phone">Enter your phone..</string>
+    <string name="enter_4_digit_number">Enter 4 digit number..</string>
+    <string name="enter_your_password">Enter your password..</string>
+    <string name="enter_your_email">Enter your email..</string>
+    <string name="hello_from_text_view">Hello from text view!</string>
+    <string name="add_some_text">Add some text..</string>
+    <string name="click_me">Click Me!</string>
+    <string name="off">OFF</string>
+    <string name="on">ON</string>
+    <string name="go_to_person_activity">Go to Person Activity</string>
+    <string name="check_box">Check box</string>
+    <string name="switch_text">Switch</string>
+    <string name="select_date">Select date</string>
 </resources>
